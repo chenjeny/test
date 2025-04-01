@@ -1,1 +1,1 @@
-xxx
+add min.c
